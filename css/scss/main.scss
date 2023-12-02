@@ -1,0 +1,25 @@
+.calc{
+    &_con{
+        
+    }
+    width: 1440px;
+    margin: 0 auto;
+        &_buttons{
+            
+            &_side{
+                
+                
+            }
+        }
+    &_wrapper{
+        display: flex;
+    }
+}
+
+.invi{
+    display: none;
+}
+
+.vi{
+    display: block;
+}

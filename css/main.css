@@ -1,0 +1,15 @@
+.calc {
+  width: 1440px;
+  margin: 0 auto;
+}
+.calc_wrapper {
+  display: flex;
+}
+
+.invi {
+  display: none;
+}
+
+.vi {
+  display: block;
+}/*# sourceMappingURL=main.css.map */
